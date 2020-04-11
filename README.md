@@ -15,7 +15,7 @@ To use this spreadsheet for rock and snow delineation:
 - A second order polynomial trendline is automatically fitted to the "Manually Defined Calibration Points" and its equation displayed on the graph. Use this equation in your GIS or image analysis software to calculate the threshold raster delineating snow and rock from the red and blue bands in your original image (use the "Raster Calculator" in the ArcMap Spatial Analyst Toolbox).
 The equation to use in Raster Calculator for "y = ax2 + bx + c", where y is the calculated threshold for red band raster (Threshold.tif) and x is the ratio of the red/blue raster values ("red-blue.tif"), is:
 
-a*Float("red-blue.tif")**Float("red-blue.tif")-b*Float("red-blue.tif")+c
+a**Float("red-blue.tif")**Float("red-blue.tif")-b**Float("red-blue.tif")+c
 
 Copy the values of a, b, and c from the polynomial equation in this spreadsheet. Calculate "red-blue.tif" (i.e. x in the polynomial equation) in the Raster Calculator from:
 
