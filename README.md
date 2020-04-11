@@ -34,5 +34,6 @@ https://github.com/Alex-Burton-Johnson/RGB_Rock-Snow_Differentiation
 All the best,
 Dr Alex Burton-Johnson
 
-British Antarctic SurveyHigh CrossMadingley RoadCambridgeCB3 0ET
+British Antarctic Survey
+High Cross, Madingley Road, Cambridge, CB3 0ET
 Email: alerto@bas.ac.uk
