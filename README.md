@@ -1,7 +1,8 @@
 # Calibration spreadsheet for calculating the threshold curve differentiating rock and snow in RGB imagery
 
 This spreadsheet is supplementary to the paper:
-Burton-Johnson, A. and Wyniawskyj, N. (2020). Rock and snow differentiation from colour (RGB) images.  The Cryosphere.
+
+**Burton-Johnson, A. and Wyniawskyj, N. (2020). Rock and snow differentiation from colour (RGB) images.  The Cryosphere.**
 
 This spreadsheet has been produced to aid calculation of the calibration curve differentiating rock and snow in colour images. The equation of this curve will then be used to derive the threshold raster differentiating rock and snow from the red values of the original image. For a detailed discussion of the methodology refer to the associated publication.
 
