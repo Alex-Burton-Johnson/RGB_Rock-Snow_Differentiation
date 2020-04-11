@@ -29,6 +29,7 @@ The pixels representing rock outcrop will have red band values lower than the th
 
 
 If you have further questions, please contact the lead author. Updates to this spreadsheet will be hosted here:
+
 https://github.com/Alex-Burton-Johnson/RGB_Rock-Snow_Differentiation
 
 All the best,
